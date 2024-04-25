@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #80808075;
+  padding-top: 25px;
+}
+
+.App-logo {
+  height: 5rem;
+}
+
+.item {
+  list-style: none;
+  display: inline;
+
+  padding: 0 10px;
+  margin: 0 5px;
+  background-color: aqua;
+}
